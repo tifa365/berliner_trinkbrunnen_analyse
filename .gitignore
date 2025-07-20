@@ -1,0 +1,30 @@
+# Documentation that shouldn't be committed
+docs/standorte-trinkbrunnen-refill.pdf
+
+# Cache directories
+cache/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,13 @@
+[project]
+name = "trinkbrunnen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "folium>=0.20.0",
+    "geopandas>=1.1.1",
+    "geopy>=2.4.1",
+    "osmnx>=2.0.5",
+    "requests>=2.32.4",
+]

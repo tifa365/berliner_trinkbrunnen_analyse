@@ -1,0 +1,5867 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50827215,
+          52.40657994
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.733",
+        "oid": 733,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Waltersdorfer Chaussee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "107",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398525.364,
+        "hochwert": 5807307.646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31480965,
+          52.49937835
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.734",
+        "oid": 734,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Olivaer Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "093",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385606.754,
+        "hochwert": 5817917.657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36420462,
+          52.54389629
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.735",
+        "oid": 735,
+        "typ": "Botsch Brunnen",
+        "strasse": "Burgsdorfstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "100",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389071.723,
+        "hochwert": 5822791.878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43558694,
+          52.46987529
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.736",
+        "oid": 736,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Ilsestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "080",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393733.669,
+        "hochwert": 5814451.831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3599554,
+          52.55066685
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.737",
+        "oid": 737,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Utrechter Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "092",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388800.707,
+        "hochwert": 5823551.449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25907398,
+          52.43339412
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.738",
+        "oid": 738,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Teltower Damm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "074",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 381646.802,
+        "hochwert": 5810668.805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41022409,
+          52.54878438
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.739",
+        "oid": 739,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Rhinower Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "101",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392204.202,
+        "hochwert": 5823265.806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39225176,
+          52.55543865
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.740",
+        "oid": 740,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Grüntaler Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "103",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391002.153,
+        "hochwert": 5824032.903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25778381,
+          52.43540351
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.741",
+        "oid": 741,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Sderotplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "088",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 381564.487,
+        "hochwert": 5810894.397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43753829,
+          52.47011412
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.742",
+        "oid": 742,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Nogatstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "081",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393866.785,
+        "hochwert": 5814475.525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43544589,
+          52.48103211
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.743",
+        "oid": 743,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Erkstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "075",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393750.965,
+        "hochwert": 5815692.904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31215423,
+          52.44291301
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.744",
+        "oid": 744,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Augustastr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "087",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385279.789,
+        "hochwert": 5811641.872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37978299,
+          52.52630721
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.745",
+        "oid": 745,
+        "typ": "Botsch Brunnen",
+        "strasse": "Luisenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "099",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390084.145,
+        "hochwert": 5820811.765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40709401,
+          52.48220046
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.746",
+        "oid": 746,
+        "typ": "Bituma Brunnen",
+        "strasse": "Tempelhofer Damm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "105",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391828.58,
+        "hochwert": 5815864.932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30727491,
+          52.50080995
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.747",
+        "oid": 747,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wilmersdorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "095",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385099.058,
+        "hochwert": 5818088.843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7209284,
+          52.43898941
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.748",
+        "oid": 748,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schönblicker Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "106",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 413054.341,
+        "hochwert": 5810635.239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4608094,
+          52.51990236
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.749",
+        "oid": 749,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Eldenaer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "086",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 395565.444,
+        "hochwert": 5819979.113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31879027,
+          52.48339569
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.750",
+        "oid": 750,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Volkspark Wilmersdorf",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "076",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385835.564,
+        "hochwert": 5816133.781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3069232,
+          52.50584122
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.751",
+        "oid": 751,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wilmersdorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "094",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385088.309,
+        "hochwert": 5818648.98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38664631,
+          52.47147881
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.752",
+        "oid": 752,
+        "typ": "Bituma Brunnen",
+        "strasse": "Hoeppnerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "104",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390413.475,
+        "hochwert": 5814703.293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32461205,
+          52.58880216
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.753",
+        "oid": 753,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Eichborndamm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "073",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386503.034,
+        "hochwert": 5827847.951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47826059,
+          52.51912582
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.754",
+        "oid": 754,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Stadtpark Lichtenberg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "102",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396747.618,
+        "hochwert": 5819867.643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32011446,
+          52.42514537
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.755",
+        "oid": 755,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bogenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "001",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385774.863,
+        "hochwert": 5809653.182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20701907,
+          52.5346722
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.756",
+        "oid": 756,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Obermeierweg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "007",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378387.904,
+        "hochwert": 5822019.222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19897402,
+          52.53603652
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.757",
+        "oid": 757,
+        "typ": "Bituma Brunnen",
+        "strasse": "Münsinger Park",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "078",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377846.07,
+        "hochwert": 5822184.546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1721797,
+          52.52126805
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.758",
+        "oid": 758,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Leubnitzer Weg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "083",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 375987.32,
+        "hochwert": 5820587.722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60417443,
+          52.5372243
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.759",
+        "oid": 759,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Kurt-Weill-Gasse",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "096",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 405329.508,
+        "hochwert": 5821708.043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47166723,
+          52.5297074
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.760",
+        "oid": 760,
+        "typ": "Botsch Brunnen",
+        "strasse": "Anton-Saefkow-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "098",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396325.192,
+        "hochwert": 5821054.005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35312051,
+          52.60032509
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.761",
+        "oid": 761,
+        "typ": "Bituma Brunnen",
+        "strasse": "Senftenberger Ring",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "142",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388463.423,
+        "hochwert": 5829085.077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49616858,
+          52.50361137
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.762",
+        "oid": 762,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Münsterlandstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "152",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397926.691,
+        "hochwert": 5818116.62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58585648,
+          52.52725137
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.763",
+        "oid": 763,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Luzinstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "148",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 404065.451,
+        "hochwert": 5820622.99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57042222,
+          52.54882827
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.764",
+        "oid": 764,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schönagelstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "146",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 403065.989,
+        "hochwert": 5823043.48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48593323,
+          52.51138186
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.765",
+        "oid": 765,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Harnackstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "151",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397250.125,
+        "hochwert": 5818995.392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55663332,
+          52.54661099
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.766",
+        "oid": 766,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Marzahner Promenade",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "147",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 402126.141,
+        "hochwert": 5822815.471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5659458,
+          52.57007365
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.767",
+        "oid": 767,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Havemannstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "139",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 402809.437,
+        "hochwert": 5825412.507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48257122,
+          52.50354999
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.768",
+        "oid": 768,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Kaskelstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "150",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397003.676,
+        "hochwert": 5818129.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42042424,
+          52.55202546
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.769",
+        "oid": 769,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Lewaldstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "141",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392903.673,
+        "hochwert": 5823611.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30168698,
+          52.50510467
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.770",
+        "oid": 770,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Stuttgarter Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "158",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384731.02,
+        "hochwert": 5818575.408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51131198,
+          52.49424534
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.771",
+        "oid": 771,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Mellenseestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "153",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398933.019,
+        "hochwert": 5817053.614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55359184,
+          52.4352179
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.772",
+        "oid": 772,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Arndtplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "137",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 401671.785,
+        "hochwert": 5810430.168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35937092,
+          52.54283195
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.773",
+        "oid": 773,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Sparrstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "162",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388741.267,
+        "hochwert": 5822680.942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52098526,
+          52.50383339
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.774",
+        "oid": 774,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Am Tierpark",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "171",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399611.539,
+        "hochwert": 5818106.532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20800043,
+          52.55547893
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.775",
+        "oid": 775,
+        "typ": "Bituma Brunnen",
+        "strasse": "Streitstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "155",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378511.935,
+        "hochwert": 5824331.666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20646417,
+          52.5426199
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.776",
+        "oid": 776,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Neuendorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "156",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378372.241,
+        "hochwert": 5822904.089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44872945,
+          52.51135963
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.777",
+        "oid": 777,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Torellstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "169",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394725.453,
+        "hochwert": 5819046.514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1783789,
+          52.55017116
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.778",
+        "oid": 778,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Westerwaldstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "157",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 376489.029,
+        "hochwert": 5823791.636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35302837,
+          52.53987036
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.779",
+        "oid": 779,
+        "typ": "Bituma Brunnen",
+        "strasse": "Nordufer",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "167",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388303.663,
+        "hochwert": 5822361.347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44642055,
+          52.48358067
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.780",
+        "oid": 780,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wildenbruchpark",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "149",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394502.304,
+        "hochwert": 5815960.269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48197929,
+          52.48928908
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.781",
+        "oid": 781,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Tunnelstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "166",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396930.159,
+        "hochwert": 5816543.822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45505868,
+          52.50343895
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.782",
+        "oid": 782,
+        "typ": "Bituma Brunnen",
+        "strasse": "Rudolfplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "159",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 395136.1,
+        "hochwert": 5818156.349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34316884,
+          52.43897881
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.783",
+        "oid": 783,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bernkastler Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "161",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387377.613,
+        "hochwert": 5811155.53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32442875,
+          52.46131356
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.784",
+        "oid": 784,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Franz-Amrehn-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "097",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386161.458,
+        "hochwert": 5813668.935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50245308,
+          52.56604004
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.785",
+        "oid": 785,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Zingster Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "014",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398497.279,
+        "hochwert": 5825051.285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44666818,
+          52.54181038
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.786",
+        "oid": 786,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Thomas-Mann-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "138",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394658.456,
+        "hochwert": 5822436.327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24034342,
+          52.44246995
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.787",
+        "oid": 787,
+        "typ": "Bituma Brunnen",
+        "strasse": "Fischerhüttenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "160",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 380398.128,
+        "hochwert": 5811709.032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42189159,
+          52.53783163
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.788",
+        "oid": 788,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Rykestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "144",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392968.631,
+        "hochwert": 5822030.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3393378,
+          52.53270922
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.789",
+        "oid": 789,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bremer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "145",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387356.92,
+        "hochwert": 5821586.154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36015022,
+          52.57227087
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.790",
+        "oid": 790,
+        "typ": "Bituma Brunnen",
+        "strasse": "Grünrockweg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "143",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388868.533,
+        "hochwert": 5825953.983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53919615,
+          52.53622014
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.791",
+        "oid": 791,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Martha-Arendsee-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "165",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 400920.416,
+        "hochwert": 5821683.546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42444138,
+          52.5349326
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.792",
+        "oid": 792,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Marienburger Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "140",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393134.514,
+        "hochwert": 5821704.038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43907472,
+          52.52792356
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.793",
+        "oid": 793,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Volkspark Friedrichshain",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "122",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394110.126,
+        "hochwert": 5820902.911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42230383,
+          52.47658549
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.794",
+        "oid": 794,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Herrfurthplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "108",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392847.743,
+        "hochwert": 5815217.763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39120939,
+          52.50411983
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.795",
+        "oid": 795,
+        "typ": "Bituma Brunnen",
+        "strasse": "Besselstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "121",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390804.266,
+        "hochwert": 5818326.718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41191104,
+          52.56226382
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.796",
+        "oid": 796,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Samländische Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "133",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392351.576,
+        "hochwert": 5824762.502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30404296,
+          52.5257744
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.797",
+        "oid": 797,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Mierendorffplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "120",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384944.927,
+        "hochwert": 5820870.534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46699779,
+          52.51715587
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.798",
+        "oid": 798,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schreinerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "119",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 395978.815,
+        "hochwert": 5819664.707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39598352,
+          52.56904192
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.799",
+        "oid": 799,
+        "typ": "Bituma Brunnen",
+        "strasse": "Bürgerpark Pankow",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "134",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391288.769,
+        "hochwert": 5825540.259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3426162,
+          52.52575081
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.800",
+        "oid": 800,
+        "typ": "Botsch Brunnen",
+        "strasse": "Stromstr.",
+        "lagebeschreibung": "im Park",
+        "trinkbrunnennummer": "039",
+        "einbaujahr": "2013",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387561.506,
+        "hochwert": 5820807.123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20597442,
+          52.54620558
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.801",
+        "oid": 801,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Koeltzepark",
+        "lagebeschreibung": "im Park (Eingang zwischen den Hausnummern 13A und 15)",
+        "trinkbrunnennummer": "008",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378348.948,
+        "hochwert": 5823303.709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58912382,
+          52.44067283
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.802",
+        "oid": 802,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Volkspark Köpenick",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "109",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 404098.993,
+        "hochwert": 5810989.143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43917838,
+          52.48909759
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.803",
+        "oid": 803,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Weichselstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "110",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394023.808,
+        "hochwert": 5816584.468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52158565,
+          52.56704522
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.804",
+        "oid": 804,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Warnitzer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "124",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399796.283,
+        "hochwert": 5825136.346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51287668,
+          52.56787336
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.805",
+        "oid": 805,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Egon-Erwin-Kisch-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "123",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399207.943,
+        "hochwert": 5825240.584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21047276,
+          52.47661294
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.806",
+        "oid": 806,
+        "typ": "Unbekannt",
+        "strasse": "Barssee",
+        "lagebeschreibung": "im Grunewald am \\\"Forsthaus Alte Saubucht\\\"",
+        "trinkbrunnennummer": "003",
+        "einbaujahr": "2008",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378462.081,
+        "hochwert": 5815556.175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33042794,
+          52.50338738
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.807",
+        "oid": 807,
+        "typ": "Botsch Brunnen",
+        "strasse": "Kurfürstendamm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "029",
+        "einbaujahr": "2010",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386677.176,
+        "hochwert": 5818338.911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39869358,
+          52.54126787
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.808",
+        "oid": 808,
+        "typ": "Botsch Brunnen",
+        "strasse": "Vinetaplatz",
+        "lagebeschreibung": "vor Lokal \\\" Zur Laterne\\\", vor Wasserbecken",
+        "trinkbrunnennummer": "037",
+        "einbaujahr": "2017",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391403.872,
+        "hochwert": 5822447.09
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41893209,
+          52.49863803
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.809",
+        "oid": 809,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Reichenberger Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "042",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392672.453,
+        "hochwert": 5817675.461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4107712,
+          52.5154957
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.810",
+        "oid": 810,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Neue Jüdenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "041",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392159.774,
+        "hochwert": 5819562.557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64440049,
+          52.44774529
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.811",
+        "oid": 811,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Müggelseedamm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "018",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 407870.855,
+        "hochwert": 5811703.871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26528226,
+          52.57609879
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.812",
+        "oid": 812,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bernauer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "009",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 382450.162,
+        "hochwert": 5826530.097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28687621,
+          52.58592849
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.813",
+        "oid": 813,
+        "typ": "Botsch Brunnen",
+        "strasse": "Berliner Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "010",
+        "einbaujahr": "2017",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 383939.284,
+        "hochwert": 5827588.391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42703447,
+          52.48834862
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.814",
+        "oid": 814,
+        "typ": "Botsch Brunnen",
+        "strasse": "Weserstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "033",
+        "einbaujahr": "2012",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393197.504,
+        "hochwert": 5816519.056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41137798,
+          52.5673123
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.815",
+        "oid": 815,
+        "typ": "Botsch Brunnen",
+        "strasse": "Florastr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "013",
+        "einbaujahr": "2017",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392327.809,
+        "hochwert": 5825324.802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44614297,
+          52.47220267
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.816",
+        "oid": 816,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Kanner Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "030",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394456.233,
+        "hochwert": 5814695.207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38724444,
+          52.54968334
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.817",
+        "oid": 817,
+        "typ": "Botsch Brunnen",
+        "strasse": "Behmstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "036",
+        "einbaujahr": "2017",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390648.397,
+        "hochwert": 5823400.362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37240105,
+          52.49945206
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.818",
+        "oid": 818,
+        "typ": "Botsch Brunnen",
+        "strasse": "G-Bhf. Potsdamer Bhf.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "043",
+        "einbaujahr": "2013",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389516.047,
+        "hochwert": 5817836.175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19700323,
+          52.52498581
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.819",
+        "oid": 819,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Pichelsdorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "006",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377681.708,
+        "hochwert": 5820958.844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2359807,
+          52.49193676
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.820",
+        "oid": 820,
+        "typ": "Unbekannt",
+        "strasse": "Teufelssee-Wasserwerk",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "004",
+        "einbaujahr": "2014",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 380235.959,
+        "hochwert": 5817217.836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27442841,
+          52.58815209
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.821",
+        "oid": 821,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Alt-Tegel",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "011",
+        "einbaujahr": "2017",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 383101.958,
+        "hochwert": 5827855.805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4329429,
+          52.52853958
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.822",
+        "oid": 822,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Volkspark Friedrichshain",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "034",
+        "einbaujahr": "2010",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393695.671,
+        "hochwert": 5820980.439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30227659,
+          52.45540073
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.823",
+        "oid": 823,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Altensteinstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "002",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384641.104,
+        "hochwert": 5813046.46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5764072,
+          52.53989458
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.824",
+        "oid": 824,
+        "typ": "Botsch Brunnen",
+        "strasse": "Gärten der Welt (Erholungspark Marzahn)",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "016",
+        "einbaujahr": "2016",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 403452.186,
+        "hochwert": 5822041.816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49899079,
+          52.51049433
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.825",
+        "oid": 825,
+        "typ": "Botsch Brunnen",
+        "strasse": "Weitlingstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "024",
+        "einbaujahr": "2016",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398134.151,
+        "hochwert": 5818878.177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57565931,
+          52.53427371
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.826",
+        "oid": 826,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Siegmarstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "017",
+        "einbaujahr": "2017",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 403389.131,
+        "hochwert": 5821417.64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49212053,
+          52.42021438
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.827",
+        "oid": 827,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Alt-Rudow",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "032",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397458.35,
+        "hochwert": 5808846.857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52660019,
+          52.48211002
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.828",
+        "oid": 828,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Ehrenfelsstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "023",
+        "einbaujahr": "2010",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399943.337,
+        "hochwert": 5815682.623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56306834,
+          52.55458048
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.829",
+        "oid": 829,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bürgerpark Marzahn",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "015",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 402580.119,
+        "hochwert": 5823693.166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34732032,
+          52.52837177
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.830",
+        "oid": 830,
+        "typ": "Botsch Brunnen",
+        "strasse": "Lübecker Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "038",
+        "einbaujahr": "2015",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387887.289,
+        "hochwert": 5821091.312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23011459,
+          52.44716658
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.831",
+        "oid": 831,
+        "typ": "Unbekannt",
+        "strasse": "Fischerhüttenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "025",
+        "einbaujahr": "null",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 379715.738,
+        "hochwert": 5812248.358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52637023,
+          52.45868006
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.832",
+        "oid": 832,
+        "typ": "Botsch Brunnen",
+        "strasse": "Rathenaustr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "022",
+        "einbaujahr": "2015",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399874.561,
+        "hochwert": 5813077.026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40176379,
+          52.51103226
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.833",
+        "oid": 833,
+        "typ": "Botsch Brunnen",
+        "strasse": "Seydelstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "040",
+        "einbaujahr": "2016",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391537.61,
+        "hochwert": 5819079.619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32504311,
+          52.50272977
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.834",
+        "oid": 834,
+        "typ": "Wiener Brunnen",
+        "strasse": "Uhlandstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "027",
+        "einbaujahr": "1994",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386310.01,
+        "hochwert": 5818274.237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54830902,
+          52.46116408
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.835",
+        "oid": 835,
+        "typ": "Botsch Brunnen",
+        "strasse": "Eichgestell",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "021",
+        "einbaujahr": "2015",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 401370.651,
+        "hochwert": 5813323.136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29609105,
+          52.51923563
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.836",
+        "oid": 836,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schloßstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "026",
+        "einbaujahr": "2015",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384388.338,
+        "hochwert": 5820155.998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40449888,
+          52.56987183
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.837",
+        "oid": 837,
+        "typ": "Botsch Brunnen",
+        "strasse": "Breite Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "012",
+        "einbaujahr": "2016",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391867.893,
+        "hochwert": 5825619.767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40932152,
+          52.43150719
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.838",
+        "oid": 838,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Sangerhauser Weg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "031",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391855.712,
+        "hochwert": 5810223.508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62411008,
+          52.45059889
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.839",
+        "oid": 839,
+        "typ": "Botsch Brunnen",
+        "strasse": "Aßmannstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "019",
+        "einbaujahr": "2015",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 406497.996,
+        "hochwert": 5812047.308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32767722,
+          52.50324812
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.840",
+        "oid": 840,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Fasanenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "028",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386490.126,
+        "hochwert": 5818327.744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57937383,
+          52.4582833
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.841",
+        "oid": 841,
+        "typ": "Botsch Brunnen",
+        "strasse": "Elcknerplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "020",
+        "einbaujahr": "2015",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 403474.806,
+        "hochwert": 5812960.791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4933264,
+          52.46054427
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.842",
+        "oid": 842,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Kiefholzstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "131",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397633.867,
+        "hochwert": 5813330.658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46705882,
+          52.52004064
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.843",
+        "oid": 843,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Samariterstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "118",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 395989.769,
+        "hochwert": 5819985.471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44464335,
+          52.51724212
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.844",
+        "oid": 844,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Karl-Marx-Allee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "117",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394462.269,
+        "hochwert": 5819706.743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20618933,
+          52.53864711
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.845",
+        "oid": 845,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Havelstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "132",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378342.62,
+        "hochwert": 5822462.704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41819982,
+          52.5367608
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.846",
+        "oid": 846,
+        "typ": "Unbekannt",
+        "strasse": "Wörther Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "129",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392715.653,
+        "hochwert": 5821916.633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33518966,
+          52.47206458
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.847",
+        "oid": 847,
+        "typ": "Botsch Brunnen",
+        "strasse": "Lauterstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "061",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386920.054,
+        "hochwert": 5814847.749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28988898,
+          52.45794873
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.848",
+        "oid": 848,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Königin-Luise-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "062",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 383806.151,
+        "hochwert": 5813349.696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31709887,
+          52.43416238
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.849",
+        "oid": 849,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bäkestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "063",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385593.18,
+        "hochwert": 5810660.805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42458935,
+          52.5036449
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.850",
+        "oid": 850,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Mariannenplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "059",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393068.609,
+        "hochwert": 5818223.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43396316,
+          52.51167237
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.851",
+        "oid": 851,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Hermann-Stöhr-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "057",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393724.182,
+        "hochwert": 5819102.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30415483,
+          52.45852577
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.852",
+        "oid": 852,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Königin-Luise-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "060",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384776.876,
+        "hochwert": 5813391.024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33543697,
+          52.44866052
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.853",
+        "oid": 853,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Stadtpark Steglitz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "053",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386876.883,
+        "hochwert": 5812244.392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44741116,
+          52.51010632
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.854",
+        "oid": 854,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Pillauer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "052",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394632.998,
+        "hochwert": 5818909.041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44845196,
+          52.48184255
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.855",
+        "oid": 855,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Roseggerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "154",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394636.088,
+        "hochwert": 5815763.989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50877567,
+          52.5253721
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.856",
+        "oid": 856,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Allee der Kosmonauten",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "125",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398832.337,
+        "hochwert": 5820519.174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4294105,
+          52.51870941
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.857",
+        "oid": 857,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Strausberger Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "115",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393432.272,
+        "hochwert": 5819892.314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43735296,
+          52.51785316
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.858",
+        "oid": 858,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Karl-Marx-Allee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "112",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393969.088,
+        "hochwert": 5819785.386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39179579,
+          52.49972629
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.859",
+        "oid": 859,
+        "typ": "Bituma Brunnen",
+        "strasse": "Mehringplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "114",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390833.181,
+        "hochwert": 5817837.177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29035968,
+          52.63437754
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.860",
+        "oid": 860,
+        "typ": "Bituma Brunnen",
+        "strasse": "Wiltinger Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "116",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384303.027,
+        "hochwert": 5832971.344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50958772,
+          52.5714367
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.861",
+        "oid": 861,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Rostocker Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "126",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398993.229,
+        "hochwert": 5825641.512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44290507,
+          52.51602062
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.862",
+        "oid": 862,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Marchlewskistr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "113",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394341.397,
+        "hochwert": 5819573.428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36753555,
+          52.55193818
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.863",
+        "oid": 863,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schulstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "127",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389317.822,
+        "hochwert": 5823681.195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3696279,
+          52.5444394
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.864",
+        "oid": 864,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Reinickendorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "128",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389440.83,
+        "hochwert": 5822843.962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42220101,
+          52.54437154
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.865",
+        "oid": 865,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Dunckerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "130",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393005.518,
+        "hochwert": 5822757.177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57367887,
+          52.51326564
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.866",
+        "oid": 866,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Altentreptower Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "084",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 403208.647,
+        "hochwert": 5819083.692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42996414,
+          52.54239927
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.867",
+        "oid": 867,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Diesterwegstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "136",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393527.147,
+        "hochwert": 5822526.336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39780454,
+          52.57102329
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.868",
+        "oid": 868,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Heinrich-Mann-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "135",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391417.073,
+        "hochwert": 5825757.889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2740368,
+          52.50866098
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.869",
+        "oid": 869,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Masurenallee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "055",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 382863.939,
+        "hochwert": 5819015.445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54357604,
+          52.54305662
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.870",
+        "oid": 870,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Marzahner Promenade",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "048",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 401232.809,
+        "hochwert": 5822437.924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37940099,
+          52.50955377
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.871",
+        "oid": 871,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Leipziger Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "049",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390016.4,
+        "hochwert": 5818949.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48700221,
+          52.50130704
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.872",
+        "oid": 872,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schlichtallee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "064",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397299.187,
+        "hochwert": 5817873.323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32271073,
+          52.49772429
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.873",
+        "oid": 873,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Pfalzburger Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "056",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386138.776,
+        "hochwert": 5817721.204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37364074,
+          52.49572112
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.874",
+        "oid": 874,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Park am Gleisdreieck (Ostpark)",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "045",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389590.848,
+        "hochwert": 5817419.323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4146994,
+          52.43260982
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.875",
+        "oid": 875,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Britzer Garten",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "085",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392223.999,
+        "hochwert": 5810338.109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39015276,
+          52.50796836
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.876",
+        "oid": 876,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Friedrichstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "050",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390742.097,
+        "hochwert": 5818756.355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56079222,
+          52.50594685
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.877",
+        "oid": 877,
+        "typ": "Kaiser Brunnen",
+        "strasse": "U-Bhf. Elsterwerdaer Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "046",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 402317.974,
+        "hochwert": 5818287.019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31346591,
+          52.49042835
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.878",
+        "oid": 878,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Hohenzollerndamm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "054",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385492.3,
+        "hochwert": 5816924.376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3860319,
+          52.51677795
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.879",
+        "oid": 879,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Unter den Linden",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "051",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390484.345,
+        "hochwert": 5819742.411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30604983,
+          52.5087399
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.880",
+        "oid": 880,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wilmersdorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "058",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385036.602,
+        "hochwert": 5818972.761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48390679,
+          52.50231766
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.881",
+        "oid": 881,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Nöldnerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "065",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397091.445,
+        "hochwert": 5817990.133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40643399,
+          52.51661098
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.882",
+        "oid": 882,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Propststr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "066",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391868.222,
+        "hochwert": 5819693.088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19703017,
+          52.51356221
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.883",
+        "oid": 883,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Pichelsdorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "077",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377651.798,
+        "hochwert": 5819688.287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40601029,
+          52.49801134
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.884",
+        "oid": 884,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Prinzenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "164",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391793.803,
+        "hochwert": 5817625.045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3627674,
+          52.54891802
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.885",
+        "oid": 885,
+        "typ": "Bituma Brunnen",
+        "strasse": "Leopoldplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "163",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388986.94,
+        "hochwert": 5823352.612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35206914,
+          52.54611615
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.886",
+        "oid": 886,
+        "typ": "Bituma Brunnen",
+        "strasse": "Ostender Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "168",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388254.478,
+        "hochwert": 5823057.496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43121152,
+          52.4930819
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.887",
+        "oid": 887,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Paul-Lincke-Ufer",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "170",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393492.538,
+        "hochwert": 5817039.325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4376531,
+          52.47203003
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.888",
+        "oid": 888,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Jonasstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "082",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393879.192,
+        "hochwert": 5814688.444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2112592,
+          52.54607326
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.889",
+        "oid": 889,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Brauereihof",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "068",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378706.907,
+        "hochwert": 5823280.096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3354464,
+          52.53034701
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.890",
+        "oid": 890,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wiclefstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "070",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387086.926,
+        "hochwert": 5821329.508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53847247,
+          52.52791611
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.891",
+        "oid": 891,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Springpfuhlpark",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "047",
+        "einbaujahr": "2018",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 400852.636,
+        "hochwert": 5820760.935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24111533,
+          52.5258304
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.892",
+        "oid": 892,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Charlottenburger Chaussee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "069",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 380676.377,
+        "hochwert": 5820978.935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30637162,
+          52.50766435
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.893",
+        "oid": 893,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wilmersdorfer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "071",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385055.633,
+        "hochwert": 5818852.626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31976255,
+          52.48932882
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.894",
+        "oid": 894,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Fechnerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "089",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385916.934,
+        "hochwert": 5816792.121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42280102,
+          52.49107383
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.895",
+        "oid": 895,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Kottbusser Damm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "072",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392916.696,
+        "hochwert": 5816828.424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32231637,
+          52.45672583
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.896",
+        "oid": 896,
+        "typ": "Bituma Brunnen",
+        "strasse": "Hermann-Ehlers-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "090",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386006.106,
+        "hochwert": 5813162.026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40782834,
+          52.48950466
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.897",
+        "oid": 897,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Südstern",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "091",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391896.352,
+        "hochwert": 5816676.206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39586497,
+          52.48908578
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.898",
+        "oid": 898,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Mittenwalder Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "079",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391083.096,
+        "hochwert": 5816647.593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40056578,
+          52.38655594
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.899",
+        "oid": 899,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bahnhofstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "180",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391149.892,
+        "hochwert": 5805237.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40582302,
+          52.4968162
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.900",
+        "oid": 900,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Böcklerpark",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "193",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391778.157,
+        "hochwert": 5817492.401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49372219,
+          52.48215638
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.901",
+        "oid": 901,
+        "typ": "Bituma Brunnen",
+        "strasse": "Kiehnwerderallee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "222",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397710.879,
+        "hochwert": 5815733.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38279311,
+          52.46338321
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.902",
+        "oid": 902,
+        "typ": "Bituma Brunnen",
+        "strasse": "Kleiner Park",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "232",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390131.61,
+        "hochwert": 5813808.756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46260569,
+          52.55252623
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.903",
+        "oid": 903,
+        "typ": "Bituma Brunnen",
+        "strasse": "Weißenseer Park",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "233",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 395764.602,
+        "hochwert": 5823605.035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5032907,
+          52.57674818
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.904",
+        "oid": 904,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Hagenower Ring",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "234",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398578.756,
+        "hochwert": 5826241.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50343569,
+          52.5717982
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.905",
+        "oid": 905,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wustrower Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "235",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398577.16,
+        "hochwert": 5825690.349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24122425,
+          52.51806627
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.906",
+        "oid": 906,
+        "typ": "Bituma Brunnen",
+        "strasse": "Hanns-Braun-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "236",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 380662.723,
+        "hochwert": 5820115.237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24377769,
+          52.51428716
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.907",
+        "oid": 907,
+        "typ": "Bituma Brunnen",
+        "strasse": "Gutsmuthsweg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "237",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 380825.739,
+        "hochwert": 5819690.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.24073451,
+          52.51215671
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.908",
+        "oid": 908,
+        "typ": "Bituma Brunnen",
+        "strasse": "Trakehner Allee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "238",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 380613.477,
+        "hochwert": 5819458.792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.322181,
+          52.48418496
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.909",
+        "oid": 909,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Volkspark Wilmersdorf",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "239",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386067.837,
+        "hochwert": 5816216.208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43736025,
+          52.54501623
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.910",
+        "oid": 910,
+        "typ": "Bituma Brunnen",
+        "strasse": "Naugarder Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "240",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394034.987,
+        "hochwert": 5822806.516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37860104,
+          52.56092189
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.911",
+        "oid": 911,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Holzstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "241",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390090.47,
+        "hochwert": 5824663.466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37849522,
+          52.55832023
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.912",
+        "oid": 912,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Koloniestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "242",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390076.794,
+        "hochwert": 5824374.265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38301525,
+          52.55948151
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.913",
+        "oid": 913,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Pankepark Kühnemannstr.-Osloer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "243",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390386.083,
+        "hochwert": 5824496.549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37601083,
+          52.51631401
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.914",
+        "oid": 914,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Straße des 17. Juni",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "244",
+        "einbaujahr": "2024",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Lage unbek.",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389803.253,
+        "hochwert": 5819706.06
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48971691,
+          52.54023624
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.915",
+        "oid": 915,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Küstriner Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "223",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397574.022,
+        "hochwert": 5822199.287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36123034,
+          52.54799808
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.916",
+        "oid": 916,
+        "typ": "Bituma Brunnen",
+        "strasse": "Turiner Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "215",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388880.403,
+        "hochwert": 5823252.661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59499496,
+          52.53887711
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.917",
+        "oid": 917,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Gut Hellersdorf",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "221",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 404710.532,
+        "hochwert": 5821903.953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34787773,
+          52.46752566
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.918",
+        "oid": 918,
+        "typ": "Bituma Brunnen",
+        "strasse": "Grazer Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "219",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387770.266,
+        "hochwert": 5814323.148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3491206,
+          52.45644403
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.919",
+        "oid": 919,
+        "typ": "Bituma Brunnen",
+        "strasse": "Munsterdamm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "220",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387826.527,
+        "hochwert": 5813088.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42328318,
+          52.49933965
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.920",
+        "oid": 920,
+        "typ": "Bituma Brunnen",
+        "strasse": "Skalitzer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "214",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392969.502,
+        "hochwert": 5817747.038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28563493,
+          52.50633803
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.921",
+        "oid": 921,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Herbartstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "216",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 383644.871,
+        "hochwert": 5818738.332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3361537,
+          52.52329815
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.922",
+        "oid": 922,
+        "typ": "Bituma Brunnen",
+        "strasse": "Elberfelder Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "226",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387116.828,
+        "hochwert": 5820544.423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33329196,
+          52.49352666
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.923",
+        "oid": 923,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Prager Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "228",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386846.244,
+        "hochwert": 5817237.713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37412045,
+          52.50828604
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.924",
+        "oid": 924,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Alte Potsdamer Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "229",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389654.88,
+        "hochwert": 5818816.068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33445959,
+          52.51758214
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.925",
+        "oid": 925,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wullenweberstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "230",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 386987.23,
+        "hochwert": 5819911.336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36904365,
+          52.49254975
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.926",
+        "oid": 926,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Katzlerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "201",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389270.82,
+        "hochwert": 5817073.643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48736343,
+          52.61806113
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.927",
+        "oid": 927,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Achillesstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "225",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397595.915,
+        "hochwert": 5830858.604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52611548,
+          52.40347272
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.928",
+        "oid": 928,
+        "typ": "Bituma Brunnen",
+        "strasse": "Schönefelder Chaussee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "224",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399732.037,
+        "hochwert": 5806937.174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40558432,
+          52.50308174
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.929",
+        "oid": 929,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Ritterstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "227",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391777.341,
+        "hochwert": 5818189.619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47881086,
+          52.51511279
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.930",
+        "oid": 930,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Möllendorffstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "192",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396775.548,
+        "hochwert": 5819420.516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45380915,
+          52.54637518
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.931",
+        "oid": 931,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Mahlerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "195",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 395153.577,
+        "hochwert": 5822933.639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47231108,
+          52.51546752
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.932",
+        "oid": 932,
+        "typ": "Bituma Brunnen",
+        "strasse": "Waldeyerstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "196",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396335.35,
+        "hochwert": 5819469.282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37796893,
+          52.49657003
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.933",
+        "oid": 933,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Möckernstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "111",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 389886.777,
+        "hochwert": 5817507.131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49852899,
+          52.53850192
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.934",
+        "oid": 934,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Werneuchener Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "173",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398167.599,
+        "hochwert": 5821993.922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19341173,
+          52.52042711
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.935",
+        "oid": 935,
+        "typ": "Bituma Brunnen",
+        "strasse": "Földerichstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "197",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377425.385,
+        "hochwert": 5820457.926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30618595,
+          52.6018006
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.936",
+        "oid": 936,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Waidmannsluster Damm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "183",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385288.84,
+        "hochwert": 5829322.809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41467282,
+          52.49492076
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.937",
+        "oid": 937,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Planufer",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "181",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392374.264,
+        "hochwert": 5817268.364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40657563,
+          52.5143915
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.938",
+        "oid": 938,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Fischerinsel",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "209",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391872.384,
+        "hochwert": 5819446.022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43189931,
+          52.55014217
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.939",
+        "oid": 939,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Ostseestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "203",
+        "einbaujahr": "2020",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393677.086,
+        "hochwert": 5823384.668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49541713,
+          52.54200803
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.940",
+        "oid": 940,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wriezener Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "172",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397964.689,
+        "hochwert": 5822388.278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21754198,
+          52.55940791
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.941",
+        "oid": 941,
+        "typ": "Bituma Brunnen",
+        "strasse": "Sigmund-Bergmann-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "178",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 379169.541,
+        "hochwert": 5824752.62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40273818,
+          52.54177762
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.942",
+        "oid": 942,
+        "typ": "Bituma Brunnen",
+        "strasse": "Mauerpark",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "186",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391679.401,
+        "hochwert": 5822497.707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45107655,
+          52.54866846
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.943",
+        "oid": 943,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Antonplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "190",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 394973.768,
+        "hochwert": 5823192.677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28529776,
+          52.58993836
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.944",
+        "oid": 944,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Gorkistr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "044",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 383842.96,
+        "hochwert": 5828036.914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36140762,
+          52.56328699
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.945",
+        "oid": 945,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Am Schäfersee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "067",
+        "einbaujahr": "2019",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388931.043,
+        "hochwert": 5824952.844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29109771,
+          52.51025273
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.946",
+        "oid": 946,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wundtstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "217",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384025.91,
+        "hochwert": 5819164.933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29920611,
+          52.5152926
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.947",
+        "oid": 947,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Otto-Grüneberg-Weg",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "218",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 384589.347,
+        "hochwert": 5819712.471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30939565,
+          52.47331104
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.948",
+        "oid": 948,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Binger Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "231",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 385171.412,
+        "hochwert": 5815027.073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47553113,
+          52.52617708
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.949",
+        "oid": 949,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Paul-Junius-Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "174",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396578.992,
+        "hochwert": 5820655.811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47440531,
+          52.52735329
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.950",
+        "oid": 950,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Anton-Saefkow-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "191",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396505.385,
+        "hochwert": 5820788.245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19808549,
+          52.55511782
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.951",
+        "oid": 951,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Hohenzollernring",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "179",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377838.811,
+        "hochwert": 5824308.245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55466618,
+          52.55715808
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.952",
+        "oid": 952,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Mehrower Allee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "175",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 402016.251,
+        "hochwert": 5823991.232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41848144,
+          52.47648844
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.953",
+        "oid": 953,
+        "typ": "Bituma Brunnen",
+        "strasse": "Oderstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "176",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392587.919,
+        "hochwert": 5815212.646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.419956,
+          52.47083113
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.954",
+        "oid": 954,
+        "typ": "Bituma Brunnen",
+        "strasse": "Oderstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "177",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 392674.297,
+        "hochwert": 5814581.248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20005129,
+          52.52846039
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.955",
+        "oid": 955,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Schiffahrtsufer",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "182",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377898.113,
+        "hochwert": 5821340.119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21436152,
+          52.44019946
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.956",
+        "oid": 956,
+        "typ": "Bituma Brunnen",
+        "strasse": "Am Schlachtensee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "208",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 378626.081,
+        "hochwert": 5811499.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48581504,
+          52.53530373
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.957",
+        "oid": 957,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Landsberger Allee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "204",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397297.909,
+        "hochwert": 5821656.221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49188841,
+          52.54643044
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.958",
+        "oid": 958,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Waldowstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "205",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397735.677,
+        "hochwert": 5822885.148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4846429,
+          52.41226849
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.959",
+        "oid": 959,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Groß-Ziethener Chaussee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "206",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 396931.349,
+        "hochwert": 5807973.748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48920829,
+          52.5151971
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.960",
+        "oid": 960,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Roedeliusplatz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "207",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397481.247,
+        "hochwert": 5819415.078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43768606,
+          52.46296887
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.961",
+        "oid": 961,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Bendastr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "210",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393859.636,
+        "hochwert": 5813680.611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52114806,
+          52.49762396
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.962",
+        "oid": 962,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Heinrich-Dathe-Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "213",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 399608.446,
+        "hochwert": 5817415.675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43148305,
+          52.5004533
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.963",
+        "oid": 963,
+        "typ": "Bituma Brunnen",
+        "strasse": "Lausitzer Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "184",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393528.779,
+        "hochwert": 5817858.778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43057922,
+          52.50077665
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.964",
+        "oid": 964,
+        "typ": "Bituma Brunnen",
+        "strasse": "Lausitzer Platz",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "185",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 393468.212,
+        "hochwert": 5817896.075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36496847,
+          52.48762234
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.965",
+        "oid": 965,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Hohenfriedbergstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "187",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388981.76,
+        "hochwert": 5816531.875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36045389,
+          52.48497945
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.966",
+        "oid": 966,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Gotenstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "188",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 388668.571,
+        "hochwert": 5816244.883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34820365,
+          52.4852772
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.967",
+        "oid": 967,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Belziger Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "189",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 387837.55,
+        "hochwert": 5816296.953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27335984,
+          52.52008618
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.968",
+        "oid": 968,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Spandauer Damm",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "005",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 382848.395,
+        "hochwert": 5820287.246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38139522,
+          52.5525228
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.969",
+        "oid": 969,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Prinzenallee",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "035",
+        "einbaujahr": "1985",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 390258.908,
+        "hochwert": 5823725.051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27976186,
+          52.53692301
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.970",
+        "oid": 970,
+        "typ": "Bituma Brunnen",
+        "strasse": "Heilmannring",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "199",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 383327.368,
+        "hochwert": 5822149.462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5063234,
+          52.49389826
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.971",
+        "oid": 971,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Dolgenseestr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "200",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 398593.567,
+        "hochwert": 5817022.003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49245606,
+          52.54814794
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.972",
+        "oid": 972,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Oberseepark",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "194",
+        "einbaujahr": "2021",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 397778.157,
+        "hochwert": 5823075.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53478544,
+          52.46424662
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.973",
+        "oid": 973,
+        "typ": "Bituma Brunnen",
+        "strasse": "Eichgestell",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "198",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 400458.853,
+        "hochwert": 5813684.522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18727432,
+          52.51897629
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.974",
+        "oid": 974,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Gatower Str.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "212",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 377004.955,
+        "hochwert": 5820307.009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40037956,
+          52.54388593
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.975",
+        "oid": 975,
+        "typ": "Bituma Brunnen",
+        "strasse": "Lortzingstr.",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "202",
+        "einbaujahr": "2022",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 391524.657,
+        "hochwert": 5822735.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26250539,
+          52.54161703
+        ]
+      },
+      "properties": {
+        "GmlID": "Trinkbrunnen_BWB.976",
+        "oid": 976,
+        "typ": "Kaiser Brunnen",
+        "strasse": "Wilhelm-von-Siemens-Park",
+        "lagebeschreibung": "null",
+        "trinkbrunnennummer": "211",
+        "einbaujahr": "2023",
+        "eigentuemer": "Berliner Wasserbetriebe",
+        "qualitaet_der_lage": "Vermessung",
+        "betriebszustand": "in Betrieb",
+        "rechtswert": 382169.641,
+        "hochwert": 5822699.567
+      }
+    }
+  ]
+}
