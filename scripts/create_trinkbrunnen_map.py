@@ -145,6 +145,9 @@ def create_trinkbrunnen_map():
     # Add layer control
     folium.LayerControl().add_to(m)
     
+    # Add location button (my current location)
+    plugins.LocateControl().add_to(m)
+    
     # Add fullscreen button
     plugins.Fullscreen().add_to(m)
     

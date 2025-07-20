@@ -300,6 +300,9 @@ def create_comparison_map(osm_df, bwb_df, matches_df, osm_unmatched, bwb_unmatch
     # Add layer control
     folium.LayerControl().add_to(m)
     
+    # Add location button (my current location)
+    plugins.LocateControl().add_to(m)
+    
     # Add fullscreen
     plugins.Fullscreen().add_to(m)
     

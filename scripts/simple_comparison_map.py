@@ -1,5 +1,6 @@
 import json
 import folium
+from folium import plugins
 import osmnx as ox
 import pandas as pd
 from shapely.geometry import Point
@@ -84,6 +85,9 @@ def create_simple_comparison_map():
     """
     
     m.get_root().html.add_child(folium.Element(legend_html))
+    
+    # Add location button (my current location)
+    plugins.LocateControl().add_to(m)
     
     # Save
     map_file = 'bwb_vs_osm_simple.html'
